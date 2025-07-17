@@ -1,2 +1,2 @@
-# shortcycle-id-image_processing
-Image Processing Made Easy: Practical Industrial Applications
+# Image Processing Made Easy: Practical Industrial Applications
+Open ImageProcessingMadeEasy.mlx on MATLAB to start demo.
